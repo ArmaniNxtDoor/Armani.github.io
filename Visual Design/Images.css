@@ -1,0 +1,15 @@
+@charset "utf-8";
+img {
+    float: none;
+    clear: none;
+    text-align: center;
+    background-position: center center;
+    right: px;
+    padding-left: 550px;
+    margin-left: 0px;
+}
+p {
+    font-weight: bold;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+}

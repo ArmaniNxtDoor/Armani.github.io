@@ -1,0 +1,41 @@
+@charset "utf-8";
+body h1 {
+    font-style: normal;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+    text-shadow: px 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-size: 50px;
+    color: black;
+}
+body p {
+    color: black;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: tan;
+}
+body p a {
+    text-align: justify;
+
+
+}
+body p {
+}
+.sha {
+    /* [disabled]left: 100px; */
+    float: left;
+
+}
+.shan {
+    float: right;
+}
+.woke {
+    border-bottom-style: groove;
+}
